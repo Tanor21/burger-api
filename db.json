@@ -1,0 +1,112 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Spider-Man",
+            "subtitle": "Marvel",
+            "poster": "http://localhost:4000/images/spiderman.webp",
+            "isFree": "No",
+            "price": "$25.99",
+            "types": ["Fiction", "cartoon"]
+        },
+        {
+            "id": 2,
+            "title": "Battlefield 2042",
+            "subtitle": "EA",
+            "poster": "http://localhost:4000/images/battlefield-2042.webp",
+            "isFree": "No",
+            "price": "$19.99",
+            "types": ["war"]
+        },
+        {
+            "id": 3,
+            "title": "Pokémon Unite",
+            "subtitle": "The Pokémon Company",
+            "poster": "http://localhost:4000/images/pokemon-unite.jpeg",
+            "isFree": "Yes",
+            "price": "$00.00",
+            "types": ["Fiction", "cartoon"]
+        },
+        {
+            "id": 4,
+            "title": "Spider-Man: Miles Morales",
+            "subtitle": "Marvel",
+            "poster": "http://localhost:4000/images/miles-morales.webp",
+            "isFree": "Yes",
+            "price": "$29.99",
+            "types": ["Fiction", "cartoon"]
+        },
+        {
+            "id": 5,
+            "title": "Halo Infinite",
+            "subtitle": "Xbox Game",
+            "poster": "http://localhost:4000/images/halo-infinite.jpeg",
+            "isFree": "No",
+            "price": "$24.99",
+            "types": ["Fiction", "war"]
+        },
+        {
+            "id": 6,
+            "title": "Fortnite",
+            "subtitle": "Epic Games",
+            "poster": "http://localhost:4000/images/fortnite.webp",
+            "isFree": "Yes",
+            "price": "$00.00",
+            "types": ["Fiction", "cartoon"]
+        },
+        {
+            "id": 7,
+            "title": "Far Cry 6",
+            "subtitle": "Ubisoft",
+            "poster": "http://localhost:4000/images/FarCry6.png",
+            "isFree": "No",
+            "price": "$15.99",
+            "types": ["War", "Thriller"]
+        },
+        {
+            "id": 8,
+            "title": "God of War: Ragnarok",
+            "subtitle": "Sony",
+            "poster": "http://localhost:4000/images/god-of-war.jpeg",
+            "isFree": "No",
+            "price": "$25.99",
+            "types": ["War", "Thriller"]
+        },
+        {
+            "id": 9,
+            "title": "Altos Odyssey",
+            "subtitle": "Noodlecake Studios",
+            "poster": "http://localhost:4000/images/Altos-Odyssey.jpeg",
+            "isFree": "Yes",
+            "price": "$00.00",
+            "types": ["Fiction", "cartoon"]
+        },
+        {
+            "id": 10,
+            "title": "Genshin Impact",
+            "subtitle": "miHoYo",
+            "poster": "http://localhost:4000/images/genshin-impact.jpeg",
+            "isFree": "Yes",
+            "price": "$00.00",
+            "types": ["Fiction", "cartoon"]
+        },
+        {
+            "id": 11,
+            "title": "Diablo 4",
+            "subtitle": "Blizzard Entertainment",
+            "poster": "http://localhost:4000/images/diablo-4.jpeg",
+            "isFree": "No",
+            "price": "$23.99",
+            "types": ["Fiction", "cartoon"]
+        },
+        {
+            "id": 12,
+            "title": "Asphalt 9",
+            "subtitle": "Gameloft",
+            "poster": "http://localhost:4000/images/asphalt-9.jpeg",
+            "isFree": "Yes",
+            "price": "$00.00",
+            "types": ["Fiction", "Race"]
+        }
+    ]
+}
